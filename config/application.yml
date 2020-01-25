@@ -9,7 +9,7 @@
 # production:
 #   stripe_api_key: sk_live_EeHnL644i6zo4Iyq4v1KdV9H
 #   stripe_publishable_key: pk_live_9lcthxpSIHbGwmdO941O1XVU
-AWS_BUCKET: "peterboulton1"
-AWS_ACCESS_KEY: "AKIAUMRNRLAOYTILHQWX"
+AWS_BUCKET: "peterboulton3"
+AWS_ACCESS_KEY: "AKIAUMRNRLAO6IG6DASJ"
 
-AWS_SECRET_KEY: "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"
+AWS_SECRET_KEY: "U51LQcO74jaV2AfewXM4WTO4zCVg7Clwv1GuQ+AO"
