@@ -13,4 +13,9 @@ FactoryBot.define do
      
      association :user
   end
+
+    factory :comment do
+      message {"that's rad"}
+    end
+    
 end
